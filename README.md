@@ -25,3 +25,6 @@ Print the result: 0! + 1! + 2! + 3! + ... + 100!
 
 피보나치 수열: 1, 1, 2, 3, 5, 8, 13, ...
 
+##5th Phase (by Iterator)
+스페이스의 위치를 뒤집는 함수를 만드세요
+"succeeding you father" -> "succee din gyoufather"
