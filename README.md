@@ -17,3 +17,11 @@ http://projecteuler.net/problem=17
 
 ###3rd Phase (by ermaker)
 Print the result: 0! + 1! + 2! + 3! + ... + 100!
+
+###4th Phase (by ermaker)
+1000이하인 피보나치 수열의 합을 출력하시오.
+
+조건: 1000이하인지 코드상에서 꼭 확인 해야 합니다.
+
+피보나치 수열: 1, 1, 2, 3, 5, 8, 13, ...
+
