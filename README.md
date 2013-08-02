@@ -9,4 +9,8 @@ GoN Coding Battle!
 원래 plaintext를 복원하세요. 키를 찾고 이것이 plaintext인지 판단하는 과정이 전부 코딩으로 이루어져야합니다.
 
 http://letterfrequency.org/#computer-keyboard-key-frequency
- 
+
+
+###2nd Phase (by ermaker)
+Solve it.
+http://projecteuler.net/problem=17
