@@ -1,10 +1,8 @@
-v="succeeding you father".each_char.map.to_a
-y=v.dup
-y.delete(' ')
-while true do
-  i = v.index{|v| v==' '}
-  break unless i
+d="succeeding you father"
+v=d.each_char.map.to_a
+y=d.delete ' '
+while i = v.index{|v| v==' '}
   v[i] = '.'
-  y.insert(-i-1,' ')
+  y.insert -i-1, ' '
 end
-puts y.join
+puts y
