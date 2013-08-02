@@ -6,3 +6,5 @@ def succeeding str
 	result
 end
 puts succeeding "succeeding you father"
+
+# r=(s=gets).tr' ','';s.size.times{|i|r[-i-1,1]+=' 'if s[i]<33};puts r
