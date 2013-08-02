@@ -14,3 +14,6 @@ http://letterfrequency.org/#computer-keyboard-key-frequency
 ###2nd Phase (by ermaker)
 Solve it.
 http://projecteuler.net/problem=17
+
+###3rd Phase (by ermaker)
+Print the result: 0! + 1! + 2! + 3! + ... + 100!
