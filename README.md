@@ -8,3 +8,5 @@ GoN Coding Battle!
 이 hex-문자열은 한 plaintext문장을 한 char에 대해 XOR인코딩 한 값입니다.
 원래 plaintext를 복원하세요. 키를 찾고 이것이 plaintext인지 판단하는 과정이 전부 코딩으로 이루어져야합니다.
 
+http://letterfrequency.org/#computer-keyboard-key-frequency
+
