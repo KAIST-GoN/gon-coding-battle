@@ -28,3 +28,7 @@ Print the result: 0! + 1! + 2! + 3! + ... + 100!
 ###5th Phase (by Iterator)
 스페이스의 위치를 뒤집는 함수를 만드세요
 "succeeding you father" -> "succee din gyoufather"
+
+###6th Phase (by Prudentiae)
+1부터 1000까지 출력하면서 조건문과 반복문이 없는 C코드를 작성하세요.
+어셈으로 변환했을때 j에서 jmp만 가능합니다. cmp X
